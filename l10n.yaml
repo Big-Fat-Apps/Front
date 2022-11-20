@@ -1,0 +1,6 @@
+template-arb-file: intl_en.arb
+output-localization-file: trading_localizations.dart
+output-class: TradingLocalizations
+preferred-supported-locales:
+  - en
+use-deferred-loading: true
